@@ -1,23 +1,3 @@
-# LLM Evaluation, Alignment & Language Portfolio
-
-This repository collects a set of professional modules documenting hands-on experience in the evaluation, alignment, and linguistic analysis of large language models (LLMs).
-
-The focus of this work is on structured judgment, semantic precision, reasoning evaluation, and safety-aware assessment, combining technical rigor with a strong linguistic perspective.
-
-All content is designed as portfolio material and does not expose confidential or proprietary data.
-
----
-
-## Repository Structure
-
-The repository is organized into independent but related modules:
-
-projects/
-├─ alignment-judge/
-├─ idioms/
-├─ speech/
-├─ ia-simbolismo/
-
 
 Each module documents a specific area of work, with its own methodology, scope, and examples.
 
@@ -31,10 +11,10 @@ Each module documents a specific area of work, with its own methodology, scope, 
 Hands-on experience evaluating LLM outputs using *LLM-as-a-Judge* frameworks.  
 This module covers binary and Likert-based evaluation of factual accuracy, reasoning quality, instruction adherence, linguistic quality, pragmatic control, and safety.
 
-📂 Module: `projects/alignment-judge/`  
+📂 Module: `projects/01-alignment-judge/`  
 📄 Documentation:
-- [README (ES)](projects/alignment-judge/README.md)
-- [README (EN)](projects/alignment-judge/README_en.md)
+- [README (ES)](projects/01-alignment-judge/README.md)
+- [README (EN)](projects/01-alignment-judge/README_en.md)
 
 ---
 
@@ -44,7 +24,7 @@ This module covers binary and Likert-based evaluation of factual accuracy, reaso
 Linguistic analysis focused on idiomatic expressions, semantic variation, and meaning preservation.  
 This module explores challenges related to non-literal language, paraphrasing, and semantic alignment in NLP systems.
 
-📂 Module: `projects/idioms/`
+📂 Module: `projects/02-idioms/`
 
 ---
 
@@ -54,7 +34,7 @@ This module explores challenges related to non-literal language, paraphrasing, a
 Evaluation tasks related to speech data, transcription quality, and automatic speech recognition (ASR).  
 The focus is on perceptual accuracy, annotation consistency, and language-specific challenges.
 
-📂 Module: `projects/speech/`
+📂 Module: `projects/03-speech/`
 
 ---
 
@@ -80,5 +60,6 @@ This repository serves as a professional portfolio to demonstrate:
 - Careful handling of edge cases and safety-sensitive tasks
 
 The content is intended for technical reviewers, researchers, and teams working on NLP, alignment, or AI evaluation.
+
 
 
