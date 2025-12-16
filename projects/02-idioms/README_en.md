@@ -63,8 +63,6 @@ The module includes evaluation scenarios such as:
 - Translation with non-literal equivalence
 - Detection of semantic drift caused by literal interpretation
 
-All tasks are evaluated using clearly defined criteria and, when applicable, binary or Likert-based scales.
-
 ---
 
 ## Module Goal
