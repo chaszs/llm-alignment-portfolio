@@ -1,65 +1,103 @@
+# LLM Evaluation, Alignment and Language Analysis Portfolio
 
-Each module documents a specific area of work, with its own methodology, scope, and examples.
+This repository documents my practical experience in the evaluation, alignment, and qualitative analysis of large language models (LLMs) and speech systems.
 
----
+The work presented here focuses on applied evaluation rather than model training, covering tasks related to alignment, reasoning quality, linguistic robustness, and real-world language behavior.
 
-## Modules
-
-### 🔹 Alignment & Evaluation — Judge
-**Status:** Completed
-
-Hands-on experience evaluating LLM outputs using *LLM-as-a-Judge* frameworks.  
-This module covers binary and Likert-based evaluation of factual accuracy, reasoning quality, instruction adherence, linguistic quality, pragmatic control, and safety.
-
-📂 Module: `projects/01-alignment-judge/`  
-📄 Documentation:
-- [README (ES)](projects/01-alignment-judge/README.md)
-- [README (EN)](projects/01-alignment-judge/README_en.md)
+All materials are synthetic and designed exclusively for professional portfolio purposes.
 
 ---
 
-### 🔹 Idioms & Semantic Analysis
-**Status:** Planned / In progress
+## Repository Structure
 
-Linguistic analysis focused on idiomatic expressions, semantic variation, and meaning preservation.  
-This module explores challenges related to non-literal language, paraphrasing, and semantic alignment in NLP systems.
+The repository is organized into independent but related modules, each addressing a specific aspect of model evaluation and language processing.
 
-📂 Module: `projects/02-idioms/`
+projects/
+├─ 01-judge/
+├─ 02-idioms/
+└─ 03-speech/
 
----
 
-### 🔹 Speech & ASR Evaluation
-**Status:** Planned
-
-Evaluation tasks related to speech data, transcription quality, and automatic speech recognition (ASR).  
-The focus is on perceptual accuracy, annotation consistency, and language-specific challenges.
-
-📂 Module: `projects/03-speech/`
+Each module includes its own documentation, scope definition, evaluation criteria, and illustrative synthetic examples where applicable.
 
 ---
 
-## Methodological Principles
+## Modules Overview
 
-Across all modules, the work follows shared principles:
+### 1. Judge – LLM Evaluation and Alignment
 
-- Clear task scoping and evaluation criteria
-- Explicit use of binary and Likert scales
-- Attention to semantic and pragmatic correctness
-- Emphasis on reasoning quality and explainability
-- Awareness of safety and alignment constraints
+The **Judge** module documents work performed under a structured *LLM-as-a-Judge* evaluation framework.
+
+It focuses on the rigorous application of binary and Likert-scale rubrics to assess:
+
+- Instruction following
+- Factual accuracy
+- Reasoning quality
+- Semantic fidelity
+- Linguistic quality
+- Safety and boundary handling
+
+The module covers a defined subset of Judge tasks and demonstrates methodological rigor in model evaluation and alignment.
+
+📁 `projects/01-judge/`
 
 ---
 
-## Purpose of the Repository
+### 2. Idioms – Non-Literal Language and Semantic Robustness
 
-This repository serves as a professional portfolio to demonstrate:
+The **Idioms** module explores how language models handle non-literal expressions, idiomatic constructions, and meaning that cannot be resolved compositionally.
 
-- Practical experience in LLM evaluation and alignment
-- Strong grounding in language, semantics, and reasoning
-- Ability to apply structured evaluation frameworks
-- Careful handling of edge cases and safety-sensitive tasks
+The focus is qualitative and linguistic, addressing:
 
-The content is intended for technical reviewers, researchers, and teams working on NLP, alignment, or AI evaluation.
+- Idiomatic meaning interpretation
+- Semantic ambiguity
+- Paraphrasing robustness
+- Cross-linguistic variation
+
+The module reflects evaluation work conducted in multilingual contexts (Spanish, Catalan, and English), with an emphasis on semantic fidelity rather than scoring.
+
+📁 `projects/02-idioms/`
+
+---
+
+### 3. Speech – ASR and Spoken Language Evaluation
+
+The **Speech** module addresses the evaluation of automatic speech recognition (ASR) systems and speech pipelines under real-world conditions.
+
+Rather than benchmark-driven performance, the module focuses on:
+
+- Robustness to noise and signal degradation
+- Handling of spontaneous and non-standard speech
+- Accent and phonetic variation
+- Error patterns and hallucination risks
+- Recognition of system limits
+
+The emphasis is on applied evaluation at the boundary between acoustic signal and language.
+
+📁 `projects/03-speech/`
+
+---
+
+## Methodological Approach
+
+Across all modules, the evaluation approach is characterized by:
+
+- Clear scoping and task delimitation
+- Context-aware qualitative analysis
+- Explicit criteria and evaluation principles
+- Separation between evaluation and model training
+- Awareness of alignment, safety, and user impact
+
+The repository is intended to demonstrate analytical rigor, linguistic sensitivity, and practical experience with real-world model evaluation workflows.
+
+---
+
+## Disclaimer
+
+All examples, datasets, and outputs contained in this repository are synthetic.
+
+No proprietary data, confidential materials, or internal systems are reproduced or disclosed.
+
 
 
 
