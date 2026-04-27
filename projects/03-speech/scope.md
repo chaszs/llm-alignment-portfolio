@@ -71,3 +71,4 @@ El alcance definido prioriza el análisis del comportamiento del sistema ante co
 La evaluación se centra en identificar patrones de fallo, límites operativos y degradación de calidad, más que en maximizar métricas aisladas.
 
 Todos los ejemplos y materiales utilizados son sintéticos y se presentan exclusivamente con fines de demostración metodológica.
+
