@@ -83,4 +83,3 @@ El alcance definido aquí busca priorizar profundidad semántica frente a amplit
 La evaluación de lenguaje idiomático requiere criterios especializados y controlados, por lo que este módulo se mantiene deliberadamente acotado.
 
 Todos los ejemplos utilizados son sintéticos y se emplean únicamente con fines de demostración metodológica.
-
