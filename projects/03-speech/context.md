@@ -5,3 +5,4 @@ El análisis y la evaluación descritos en este módulo se inspiran en escenario
 Entre estas iniciativas se incluye **Mozilla Common Voice**, como ejemplo representativo de corpus de habla multilingüe, diversa y no controlada, útil para observar patrones de error, variación fonética y degradación de calidad en sistemas de ASR.
 
 La mención de Common Voice se realiza únicamente como referencia contextual y no implica afiliación directa, autoría del dataset ni participación en su diseño.
+
