@@ -106,3 +106,4 @@ La evaluación en este módulo no persigue maximizar métricas cuantitativas esp
 Los criterios aquí definidos permiten identificar patrones de fallo relevantes para alineamiento, seguridad y experiencia de usuario, sin necesidad de acceso al entrenamiento ni a la arquitectura del modelo.
 
 Todos los ejemplos utilizados son sintéticos y se presentan exclusivamente con fines de demostración metodológica.
+
