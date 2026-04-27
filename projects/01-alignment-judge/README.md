@@ -78,4 +78,3 @@ Este módulo tiene como objetivo mostrar:
 - Conciencia de riesgos semánticos, pragmáticos y de seguridad.
 
 El contenido está diseñado como material de portafolio profesional y no expone información confidencial.
-
