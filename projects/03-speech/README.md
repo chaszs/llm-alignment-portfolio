@@ -17,7 +17,7 @@ Muchos sistemas de ASR y procesamiento del habla parten de supuestos implícitos
 - Ritmo constante
 - Sintaxis cercana al lenguaje escrito
 
-En contextos reales, estos supuestos no se cumplen.  
+En contextos reales, estos supuestos no se cumplen.
 El habla espontánea incluye ruido, acento, vacilaciones, correcciones, solapamientos y variación fonética constante.
 
 Este módulo evalúa cómo responden los sistemas cuando estos supuestos se rompen.
@@ -39,6 +39,21 @@ El objetivo no es maximizar métricas aisladas, sino analizar el comportamiento 
 
 ---
 
+## Tipos de fenómenos evaluados
+
+El módulo aborda escenarios de evaluación como:
+
+- Errores de transcripción causados por ruido de fondo
+- Confusión entre palabras fonéticamente similares
+- Omisiones o inserciones injustificadas en la transcripción
+- Segmentación incorrecta del discurso oral
+- Dificultades con habla rápida, vacilante o espontánea
+- Normalización inapropiada del lenguaje oral
+
+Todo el análisis se realiza desde una perspectiva de evaluación, no de entrenamiento de modelos.
+
+---
+
 ## Relación con otros módulos
 
 - **Judge** evalúa la calidad, corrección y alineamiento del texto generado por modelos.
@@ -49,4 +64,13 @@ Speech se sitúa en el punto de entrada del lenguaje humano al sistema, antes de
 
 ---
 
-##
+## Objetivo del módulo
+
+Este módulo tiene como objetivo mostrar:
+
+- Capacidad para evaluar sistemas ASR y de speech en condiciones realistas
+- Sensibilidad ante los límites del procesamiento automático del habla
+- Comprensión de la interacción entre señal acústica y lenguaje
+- Enfoque crítico ante modos de fallo, alucinación y degradación de calidad
+
+Todo el contenido presentado ha sido anonimizado y adaptado para divulgación pública.
