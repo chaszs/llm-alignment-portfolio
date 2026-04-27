@@ -75,3 +75,4 @@ El objetivo de este módulo es mostrar:
 - Aplicación estructurada de criterios de evaluación lingüística
 
 Todos los ejemplos y materiales son sintéticos y se presentan como parte de un portafolio profesional.
+
