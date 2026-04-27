@@ -82,4 +82,4 @@ Each module maintains a distinct focus to ensure precise and non-redundant evalu
 The scope defined here prioritizes semantic depth over superficial coverage.  
 The evaluation of idiomatic language requires specialized and tightly controlled criteria, which is why this module is intentionally scoped and bounded.
 
-All examples used are synthetic and intended solely for methodological demonstration purposes.
+All examples used are synthetic and intended solely for methodological demonstration purposes. 
