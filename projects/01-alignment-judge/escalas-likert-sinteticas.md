@@ -148,3 +148,5 @@ Las tareas objetivas priorizan la evaluación binaria, mientras que las tareas s
 
 La evaluación final combina criterios cuantitativos y cualitativos según el caso.
 
+
+
