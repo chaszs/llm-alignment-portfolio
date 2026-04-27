@@ -106,3 +106,4 @@ Evaluation in this module does not aim to maximize specific quantitative metrics
 The criteria defined here support the identification of failure patterns relevant to alignment, safety, and user experience, without requiring access to model architecture or training data.
 
 All examples used are synthetic and intended solely for methodological demonstration and professional portfolio purposes.
+
