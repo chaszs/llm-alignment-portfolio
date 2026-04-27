@@ -106,3 +106,4 @@ The evaluation of idiomatic language requires fine-grained interpretive and sema
 For this reason, the Idioms module relies on structured qualitative analysis, prioritizing semantic fidelity, pragmatic correctness, and cultural adequacy.
 
 All examples used are synthetic and intended solely for methodological demonstration purposes.
+
