@@ -71,3 +71,4 @@ The scope defined here prioritizes analysis of system behavior under realistic c
 Evaluation focuses on identifying failure patterns, operational limits, and quality degradation, rather than on maximizing isolated technical metrics.
 
 All examples and materials are synthetic and intended solely for methodological demonstration and professional portfolio use.
+
